@@ -22,7 +22,7 @@ You need to change `C:\wamp64\bin\apache\apache2.4.37\conf\extra\httpd-vhosts.co
 
 ## Local Client demo
 
-![](https://www.cnblogs.com/images/cnblogs_com/haochen273/1456081/o_ezgif-2-814340ba6a01.gif)
+![](https://www.cnblogs.com/images/cnblogs_com/haochen273/1456081/o_2019.05.01.10.39.44_44.gif)
 
 ## Remote Server demo
 
